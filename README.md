@@ -2,7 +2,6 @@
 
 👋 Hi! Welcome to my Github profile!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoswlv)](https://github.com/joswlv)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/wsj7923/)](https://www.facebook.com/wsj7923/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseungwan/)](https://www.linkedin.com/in/joseungwan/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utilForever@gmail.com)](mailto:wh7923@gmail.com)
